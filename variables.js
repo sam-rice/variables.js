@@ -5,3 +5,7 @@ var favBand = "The Beatles";
 var myAge = 28;
 var numberOfGuitars = 4;
 var birthYear = 1993;
+
+var beenToAsia = false;
+var seenGhost = false;
+var hatesFlying = true;
